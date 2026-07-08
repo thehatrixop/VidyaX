@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 40" width="120" height="40">
+  <defs>
+    <linearGradient id="vxLogoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="50%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect x="5" y="5" width="30" height="30" rx="8" fill="url(#vxLogoGrad)"/>
+  <text x="20" y="25" text-anchor="middle" fill="white" font-family="system-ui, sans-serif" font-weight="900" font-size="15">Vx</text>
+  <text x="45" y="26" fill="white" font-family="system-ui, sans-serif" font-weight="800" font-size="18">VidyaX</text>
+</svg>
